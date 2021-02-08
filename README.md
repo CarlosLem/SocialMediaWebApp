@@ -5,3 +5,5 @@ a tweet, uploading images, upvoting/downvoting and having live chat and messagin
 
 Helped frontend development with styling and the layout of the pages. Also developed the backend API that was used,
 created the database through MySQL and connected them using PHP, HTML, CSS, and JavaScript.
+
+Demo: https://web.njit.edu/ cll27/final/final-v1/frontend/login.php
